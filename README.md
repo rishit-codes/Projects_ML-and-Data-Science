@@ -11,14 +11,11 @@ This project explores the impact of smartphone usage on teenagers' lifestyle and
 - Linear Regression (Baseline)
 - Ridge Regression (with cross-validation)
 - Lasso Regression (with alpha tuning)
-- ElasticNet (best performance with R² ≈ 0.74)
+- ElasticNet (best performance)
 
 All models were evaluated using:
 - R² Score
 - Mean Absolute Error
-
-ElasticNet performed the best after hyperparameter tuning.
-
 
 ## Acknowledgements
 
